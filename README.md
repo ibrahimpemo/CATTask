@@ -1,7 +1,7 @@
 # CATTask
 This is for the CAT Task 
 
-A summary for chapters 1, 2 and 3 from "Linux Basics for Hackers"
+A summary of the first 3 chapters from "Linux Basics for Hackers"
 
 Solve two problems using Python
 
